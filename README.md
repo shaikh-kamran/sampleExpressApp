@@ -1,7 +1,11 @@
 # sampleExpressApp
-This App is just for basic setup for Express framework in Node js
+This App is basic setup for Express framework.
+
+## Installation
+```bash
 git clone https://github.com/shaikh-kamran/sampleExpressApp.git
 npm i
 npm start
+```
 
 Happy Coding!
