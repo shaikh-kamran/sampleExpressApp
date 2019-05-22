@@ -1,11 +1,20 @@
 {
-  "name": "",
+  "name": "sample-express-app",
   "main": "index.js",
-  "version": "",
+  "version": "1.0.0",
+  "description": "Its just a basic express app to start your project with",
+  "author": "shaikh kamran",
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongodb": "^3.1.9"
+    "fs-extra": "^8.0.1",
+    "json-routing-v-ks": "^1.0.0",
+    "moment-timezone": "^0.5.25",
+    "mongodb": "^3.1.9",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
